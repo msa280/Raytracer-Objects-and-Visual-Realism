@@ -1,0 +1,25 @@
+﻿  RayTracer.cpp
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\SceneObject.h(26,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\SceneObject.h(27,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\SceneObject.h(28,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\RayTracer.cpp(34,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\RayTracer.cpp(35,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\RayTracer.cpp(36,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\RayTracer.cpp(72,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\RayTracer.cpp(73,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\RayTracer.cpp(83,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\RayTracer.cpp(84,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\RayTracer.cpp(117,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\RayTracer.cpp(118,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\RayTracer.cpp(318,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\RayTracer.cpp(326,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Raytracer-Objects\RayTracer.cpp(402,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  Raytracer-Objects.vcxproj -> C:\Users\GGPC\OneDrive\Desktop\UC Semester 1 (2023)\COSC363\Assignment 2\Raytracer-Objects-and-Visual-Realism\Assignment\Raytracer-Objects\Debug\Raytracer-Objects.exe
