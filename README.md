@@ -3,6 +3,6 @@
  its capability in enhancing the visual realism of a rendered scene.
 
  
- ![With Anti-Aliasing](https://github.com/msa280/Raytracer-Objects-and-Visual-Realism/assets/83687715/23ceef3f-851c-4b6d-810a-65da3db71160)
+ ![With Anti-Aliasing](Project Images/With Anti-Aliasing.JPG)
 
 
